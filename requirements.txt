@@ -1,8 +1,1 @@
-streamlit
-torch
-transformers
-fastapi
-uvicron
-pillow
-python-multipart
-requests
+
